@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.github.BalduinLandolt.IngenRef;
+package com.github.balduinLandolt.ingenRef;
 
 /**
  * @author Balduin Landolt
